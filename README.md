@@ -1,2 +1,3 @@
-# inteligencia_artificial_e_psicologia
+# Inteligencia Artificial e Psicologia
+
 Estudo sobre inteligência artificial e psicologia
